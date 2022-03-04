@@ -1,0 +1,10 @@
+#root {
+  margin: auto 10vw;
+  border: 2px solid #aaa;
+  height: 100vh;
+  background-color: #eee;
+}
+
+.container {
+  padding: 10px 20px;
+}
